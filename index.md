@@ -37,7 +37,7 @@ Grades will be computed based on the following factors:
 - Assignments      25%
 - Labs             25%
 - Midterm          30%
-- Group project    10% 
+- Final Project    10% 
 - Quiz             10% 
 
 Final grade cutoff:
@@ -54,41 +54,41 @@ Final grade cutoff:
 
 ## Schedule
 
-| #  | Date     | Topics                       | Assignment Due             |
-| -- | -------- | ---------------------------- | -------------------------- |
-| 1  | 01/10/23 | Course Introduction          |                            |
-| 2  | 01/12/23 | Security Principles          |                            |
-| 3  | 01/17/23 | Cryptography Basics 1        |                            |
-| 4  | 01/19/23 | Cryptography Basics 2        |                            |
-| 5  | 01/24/23 | Symmetric Cryptography 1     | Assignment 1 Due           |
-| 6  | 01/26/23 | Symmetric Cryptography 2     |                            |
-| 7  | 01/31/23 | Symmetric Cryptography 3     |                            |
-| 8  | 02/02/23 | Pub Key Cryptography 1       | Lab 1 Due                  |
-| 9  | 02/07/23 | Pub Key Cryptography 2       |                            |
-| 10 | 02/09/23 | Pub Key Cryptography 3       |                            |
-| 11 | 02/14/23 | Pub Key Infra 1              | Assignment 2 Due           |
-| 12 | 02/16/23 | Pub Key Infra 2              |                            |
-| 13 | 02/21/23 | Access Control 1             | Lab 2 Due                  |
-| 14 | 02/23/23 | Access Control 2             |                            |
-| 15 | 02/28/23 | Access Control 3             |                            |
-| 16 | 03/02/23 | Midterm Review               | Assignment 3 Due           |
-| \- | 03/07/23 | Spring Break                 |                            |
-| \- | 03/09/23 | Spring Break                 |                            |
-| 17 | 03/14/23 | Network Security 1           | Final Project Proposal Due |
-| 18 | 03/16/23 | Midterm Exam (in-class)      |                            |
-| 19 | 03/21/23 | Network Security 2           |                            |
-| 20 | 03/23/23 | Software/Web Security 1      |                            |
-| 21 | 03/28/23 | Software/Web Security 2      |                            |
-| 22 | 03/30/23 | Intrusion Detection          | Lab 3 Due                  |
-| 23 | 04/04/23 | AI and Security 1            |                            |
-| 24 | 04/06/23 | AI and Security 2            | Lab 4 Due                  |
-| 25 | 04/11/23 | AI and Security 3            |                            |
-| 26 | 04/13/23 | Data Privacy 1               | Assignment 4 Due           |
-| 27 | 04/18/23 | Data Privacy 2               |                            |
-| 28 | 04/20/23 | Final Project Presentation 1 |                            |
-| 29 | 04/25/23 | Final Project Presentation 2 |                            |
-| 30 | 04/27/23 | Final Project Presentation 3 |                            |
-| \- | 05/01/23 |                              | Final Project Report Due   |
+| #  | Date     | Topics                            | Due Dates                   |
+|----|----------|-----------------------------------|-----------------------------|
+| 1  | 01/10/23 | Course Introduction               |                             |
+| 2  | 01/12/23 | Security Principles               |                             |
+| 3  | 01/17/23 | Cryptography Basics 1             |                             |
+| 4  | 01/19/23 | Cryptography Basics 2             |                             |
+| 5  | 01/24/23 | Symmetric Cryptography 1          | Assignment 1 Due            |
+| 6  | 01/26/23 | Symmetric Cryptography 2          |                             |
+| 7  | 01/31/23 | Introduction to Practice Lab (TA) |                             |
+| 8  | 02/02/23 | Pub Key Cryptography 1            | Lab 1 Due                   |
+| 9  | 02/07/23 | Pub Key Cryptography 2            |                             |
+| 10 | 02/09/23 | Pub Key Infra 1                   |                             |
+| 11 | 02/14/23 | Pub Key Infra 2                   | Assignment 2 Due            |
+| 12 | 02/16/23 | Hashing Functions                 |                             |
+| 13 | 02/21/23 | Access Control 1                  | Lab 2 Due                   |
+| 14 | 02/23/23 | Access Control 2                  |                             |
+| 15 | 02/28/23 | Access Control 3                  |                             |
+| 16 | 03/02/23 | Midterm Review                    | Assignment 3 Due            |
+| -  | 03/07/23 | Spring Break                      |                             |
+| -  | 03/09/23 | Spring Break                      |                             |
+| 17 | 03/14/23 | Homework/Lab Review (TA)          | Final Project Proposal Due  |
+| 18 | 03/16/23 | Midterm Exam (in-class)           |                             |
+| 19 | 03/21/23 | Network Security 1                | Lab 3 Due                   |
+| 20 | 03/23/23 | Network Security 2                |                             |
+| 21 | 03/28/23 | Software/Web Security 1           |                             |
+| 22 | 03/30/23 | Software/Web Security 2           | Lab 4 Due                   |
+| 23 | 04/04/23 | Intrusion Detection               |                             |
+| 24 | 04/06/23 | AI and Security 1                 |                             |
+| 25 | 04/11/23 | AI and Security 2                 | Lab 5 Due                   |
+| 26 | 04/13/23 | AI and Security 3                 |                             |
+| 27 | 04/18/23 | Data Privacy 1                    | Assignment 4 Due            |
+| 28 | 04/20/23 | Data Privacy 2                    |                             |
+| 29 | 04/25/23 | Final Project Presentation 1      |                             |
+| 30 | 04/27/23 | Final Project Presentation 2      |                             |
+| -  | 05/01/23 |                                   | Final Project Report Due    |
 
 
 The instructor reserves the rights to make any changes.
@@ -97,12 +97,12 @@ The instructor reserves the rights to make any changes.
 ## Attendence
 - There is not a traditional "attendance". We will have occational in-class quiz for checking attendance. The intent for this to assess your knowledge of the material and hold you accountable for attending.
 
-## Group Project
+## Final Project
 - Everyone in this class is expected to explore some special topics in information security beyond the content of this class (or extension of what is covered in class).
-- It is expected to be done by individual or group (max 2 people). The grading will consider the number of people involved.
-- The topic of the group project can be:
+- It is expected to be done by individuals. 
+- The topic of the project can be:
    - A cool demo of applying information security in real world application.
-   - A nice introduction towards new emerging security topics (e.g., bitcoin/blockchain, decentralized computing, differential privacy, etc.)
+   - A nice introduction towards new emerging security topics (e.g., blockchain, decentralized computing, differential privacy, stenography, cloud encryption, zero-knowlodge proof etc.)
    - An interesting project demonstrates the importance of protecting information security.
 
 ## Late Submission Policy
