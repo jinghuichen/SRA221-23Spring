@@ -11,7 +11,7 @@ SRA 221 focuses on providing an understanding of the overview of information sec
 
 ## Logistics
 
-- Time: **Tuesday/Thursday 4:35PM - 4:50PM**
+- Time: **Tuesday/Thursday 4:35PM - 5:50PM**
 - Location: **Westgate Bldg E203**  
 - Course Website: [https://jinghuichen.github.io/SRA221-23Spring/](https://jinghuichen.github.io/SRA221-23Spring/)
 - Canvas: [https://psu.instructure.com/courses/2243598](https://psu.instructure.com/courses/2243598)
