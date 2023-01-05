@@ -22,7 +22,7 @@ SRA 221 focuses on providing an understanding of the overview of information sec
 - Office hours: Wed 2-3pm Westgate E380 
 
 - TA: Yujia Wang (Email: yjw5427@psu.edu)
-    - Office hours: TBD
+    - Office hours: Mon 2-3pm Location: TBD
  
 ## Course Materials
 - Recommended (not required): 
@@ -74,7 +74,7 @@ Final grade cutoff:
 | 16 | 03/02/23 | Midterm Review                    | Assignment 3 Due            |
 | -  | 03/07/23 | Spring Break                      |                             |
 | -  | 03/09/23 | Spring Break                      |                             |
-| 17 | 03/14/23 | Homework/Lab Review (TA)          | Final Project Proposal Due  |
+| 17 | 03/14/23 | Homework Review (TA)              | Final Project Proposal Due  |
 | 18 | 03/16/23 | Midterm Exam (in-class)           |                             |
 | 19 | 03/21/23 | Network Security 1                | Lab 3 Due                   |
 | 20 | 03/23/23 | Network Security 2                |                             |
