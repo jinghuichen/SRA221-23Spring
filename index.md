@@ -18,16 +18,20 @@ SRA 221 focuses on providing an understanding of the overview of information sec
 
 ## Instructor Team
 
-- Instructor: [Jinghui Chen](https://jinghuichen.github.io/) (Email: jzc5917 at psu dot edu) 
+- Instructor: [Jinghui Chen](https://jinghuichen.github.io/) 
     - Office hours: Wed 2-3pm Westgate E380 
 
-- TA: Yujia Wang (Email: yjw5427@psu.edu)
+- TA: Yujia Wang  
     - Office hours: Mon 2-3pm Westgate E301
+
+Email : Use Canvas email
+    - all course-related email, including messages to your instructor, TA and fellow students should be sent within Canvas, using the Inbox.  
  
 ## Course Materials
 - Recommended (not required): 
     - Mark Stamp: Information Security: Principles and Practice, Third Edition  
     - Charles Pfleeger, Shari Pfleeger, Jonathan Margulies : Security in Computing, Fifth Edition. 
+
 - Required: Lab Access  -  Purchasing a Practice Labs Voucher is required for the lab components of the course. The voucher is purchased online from the PSU bookstore and is listed under the course just like a book would be. The following link provides help on how to get your voucher code https://www.up.ist.psu.edu/vhol/pl-voucher.php (https://www.up.ist.psu.edu/vhol/pl-voucher.php)
 
 ## Grading Policy
