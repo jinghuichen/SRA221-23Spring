@@ -19,7 +19,7 @@ SRA 221 focuses on providing an understanding of the overview of information sec
 ## Instructor Team
 
 - Instructor: [Jinghui Chen](https://jinghuichen.github.io/) 
-    - Office hours: Wed 2-3pm Westgate E380 
+    - Office hours: Wed 4-5pm Westgate E380 
 
 - TA: Yujia Wang  
     - Office hours: Mon 2-3pm Westgate E301
