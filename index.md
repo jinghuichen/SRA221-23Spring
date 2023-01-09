@@ -67,11 +67,11 @@ Final grade cutoff:
 | 5  | 01/24/23 | Symmetric Cryptography 1          | Assignment 1 Due            |
 | 6  | 01/26/23 | Symmetric Cryptography 2          |                             |
 | 7  | 01/31/23 | Introduction to Practice Lab (TA) |                             |
-| 8  | 02/02/23 | Pub Key Cryptography 1            | Lab 1 Due                   |
-| 9  | 02/07/23 | Pub Key Cryptography 2            |                             |
-| 10 | 02/09/23 | Pub Key Infra 1                   |                             |
-| 11 | 02/14/23 | Pub Key Infra 2                   | Assignment 2 Due            |
-| 12 | 02/16/23 | Hashing Functions                 |                             |
+| 8  | 02/02/23 | Integrity                         | Lab 1 Due                   |
+| 9  | 02/07/23 | Pub Key Cryptography 1            |                             |
+| 10 | 02/09/23 | Pub Key Cryptography 2            |                             |
+| 11 | 02/14/23 | Pub Key Infra 1                   | Assignment 2 Due            |
+| 12 | 02/16/23 | Pub Key Infra 2                   |                             |
 | 13 | 02/21/23 | Access Control 1                  | Lab 2 Due                   |
 | 14 | 02/23/23 | Access Control 2                  |                             |
 | 15 | 02/28/23 | Access Control 3                  |                             |
