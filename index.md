@@ -70,10 +70,10 @@ Final grade cutoff:
 | 8  | 02/02/23 | Integrity                         |                             |
 | 9  | 02/07/23 | Pub Key Cryptography 1            | Lab 1 Due                   |
 | 10 | 02/09/23 | Pub Key Cryptography 2            |                             |
-| 11 | 02/14/23 | Pub Key Infra 1                   | Assignment 2 Due            |
-| 12 | 02/16/23 | Pub Key Infra 2                   |                             |
-| 13 | 02/21/23 | Access Control 1                  | Lab 2 Due                   |
-| 14 | 02/23/23 | Access Control 2                  |                             |
+| 11 | 02/14/23 | Pub Key Infra 1                   |                             |
+| 12 | 02/16/23 | Pub Key Infra 2                   | Assignment 2 Due            |
+| 13 | 02/21/23 | Access Control 1                  |                             |
+| 14 | 02/23/23 | Access Control 2                  | Lab 2 Due                   |
 | 15 | 02/28/23 | Access Control 3                  |                             |
 | 16 | 03/02/23 | Midterm Review                    | Assignment 3 Due            |
 | -  | 03/07/23 | Spring Break                      |                             |
