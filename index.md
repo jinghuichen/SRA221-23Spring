@@ -81,10 +81,10 @@ Final grade cutoff:
 | 17 | 03/14/23 | Homework Review (TA)              | Final Project Proposal Due  |
 | 18 | 03/16/23 | Midterm Exam (in-class)           |                             |
 | 19 | 03/21/23 | Network Security 1                |                             |
-| 20 | 03/23/23 | Network Security 2                | Lab 3 Due                   |
-| 21 | 03/28/23 | Software/Web Security 1           |                             |
-| 22 | 03/30/23 | Software/Web Security 2           | Lab 4 Due                   |
-| 23 | 04/04/23 | Intrusion Detection               |                             |
+| 20 | 03/23/23 | Network Security 2                |                             |
+| 21 | 03/28/23 | Software/Web Security 1           | Lab 3 Due                   |
+| 22 | 03/30/23 | Software/Web Security 2           |                             |
+| 23 | 04/04/23 | Intrusion Detection               | Lab 4 Due                   |
 | 24 | 04/06/23 | AI and Security 1                 |                             |
 | 25 | 04/11/23 | AI and Security 2                 | Lab 5 Due                   |
 | 26 | 04/13/23 | AI and Security 3                 |                             |
